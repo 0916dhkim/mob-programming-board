@@ -1,0 +1,2 @@
+/* for panda css */
+@layer reset, base, tokens, recipes, utilities;
